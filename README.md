@@ -13,7 +13,6 @@ Hi! I'm afifah, I'm currently exploring web development, software engineering, U
 ![](https://streak-stats.demolab.com/?user=afifahfathonah&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afifahfathonah&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+*✍️ the developers who thrive in this era are the clearest thinkers, and the rigorous reviewer*
 
 ---
