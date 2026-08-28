@@ -1,35 +1,30 @@
-# 👋 Hey, I'm Afifah!
+# 👋 Hi, I'm Afifah!
 
-> Student. Developer. Professional bug creator. 🐛
-
-I'm currently learning how to turn
-**"I have no idea what I'm doing"**
-into
-**"oh... it works."** 🚀
+> Software Engineering student who is learning to turn ideas into code. 🚀
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Software Engineering student
-- 💻 Interested in Web Development & Software Engineering
-- 🐍 Currently learning Python
-- 🌱 Currently improving my programming skills
-- 🎨 Interested in UI/UX
-- 🚀 Goal: become a great programmer
+Hi!I'm currently exploring **web development, software engineering, UI/UX design, and AI development**.
+
+I may not know everything yet, but I'm curious to learn
+something new.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
-### Languages
+### 💻 Languages
+
 - Python
 - PHP
 - JavaScript
-- HTML
 - CSS
+- HTML
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
+
 - Laravel
 - MySQL
 - Git
@@ -37,25 +32,13 @@ into
 - Figma
 
 ---
+![Afifah's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifahfathonah)
 
-## 📚 Currently Learning
+### 🔗 Connect With Me
 
-```text
-Python       ███████░░░ 70%
-Laravel      ██████░░░░ 60%
-JavaScript   █████░░░░░ 50%
-Git          ███████░░░ 70%
-<!--
-**afifahfathonah/afifahfathonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/afifah-luthfi-fathonah/)
+afifahfathonah5@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*🌱 I wish i started younger, but today is the youngest i'll ever be*
